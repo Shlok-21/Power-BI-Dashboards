@@ -1,0 +1,16 @@
+Project Goals
+
+1. Track the current status of patients waiting list
+2. Analyze historizal monthly trend of waiting list in Inpatient and Outpatiend Categories
+3. Detailed speciality level and age profile analysis
+
+Data scope
+2018 - 2023
+
+Metrics Required
+1. Average and median waiting list
+2. Current total waiting list
+
+Views Required
+1. Summary Page
+2. Detailed page for Granular Analysis
