@@ -11,6 +11,6 @@ Link : https://app.powerbi.com/groups/me/reports/6cd44d57-1901-49b2-8702-3d7016f
 
 ## 3. Superstore Sales
 Link : https://app.fabric.microsoft.com/groups/me/reports/078a3be1-60d2-4fc7-8f91-1e310b77187e/ReportSection?experience=power-bi<br>
-![image](https://github.com/Shlok-21/Power-BI-Dashboards/assets/91182775/9054fef9-7514-4435-a52c-9130707efc6f)<br>
+![image](https://github.com/Shlok-21/Power-BI-Dashboards/assets/91182775/6ca8d2b5-3342-4395-8854-5bdf24f06724)<br>
 ![image](https://github.com/Shlok-21/Power-BI-Dashboards/assets/91182775/51ed2d14-0cd0-4f58-92ec-6a9aac1b038d)
 
