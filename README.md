@@ -8,3 +8,9 @@
 Link : https://app.powerbi.com/groups/me/reports/6cd44d57-1901-49b2-8702-3d7016f608f4/ReportSection?experience=power-bi<br>
 ![image](https://github.com/Shlok-21/StudentsPerformance/assets/91182775/46361ba5-c185-44d3-8c4b-03e4769317ae) <br>
 ![image](https://github.com/Shlok-21/StudentsPerformance/assets/91182775/bd19e152-2325-4d59-9e90-f410beadd042)
+
+## 3. Superstore Sales
+Link : https://app.fabric.microsoft.com/groups/me/reports/078a3be1-60d2-4fc7-8f91-1e310b77187e/ReportSection?experience=power-bi<br>
+![image](https://github.com/Shlok-21/Power-BI-Dashboards/assets/91182775/9054fef9-7514-4435-a52c-9130707efc6f)<br>
+![image](https://github.com/Shlok-21/Power-BI-Dashboards/assets/91182775/51ed2d14-0cd0-4f58-92ec-6a9aac1b038d)
+
