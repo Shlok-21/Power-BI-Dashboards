@@ -6,7 +6,7 @@
 
 ## 2. Patients Waiting List
 Link : https://app.powerbi.com/groups/me/reports/6cd44d57-1901-49b2-8702-3d7016f608f4/ReportSection?experience=power-bi<br>
-![image](https://github.com/Shlok-21/Power-BI-Dashboards/assets/91182775/6ca8d2b5-3342-4395-8854-5bdf24f06724) <br>
+![image](https://github.com/Shlok-21/StudentsPerformance/assets/91182775/46361ba5-c185-44d3-8c4b-03e4769317ae) <br>
 ![image](https://github.com/Shlok-21/StudentsPerformance/assets/91182775/bd19e152-2325-4d59-9e90-f410beadd042)
 
 ## 3. Superstore Sales
